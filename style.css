@@ -21,7 +21,7 @@ body{
     color: #fff;
     overflow: hidden;
     transition: all 0.5s linear;
-    background: rgba(113, 99, 186, 255);
+    background: rgba(47, 0, 146, 0.94);
 }
 .sidebar:hover{
     width: 240px;
@@ -91,7 +91,7 @@ body{
     margin-bottom: 1rem;
 }
 .header--title {
-    color: rgba(113, 99, 186, 255);
+    color: rgba(47, 0, 146, 0.94);
 }
 .user--info {
     display: flex;
@@ -101,8 +101,8 @@ body{
 
 .search--box {
     background: rgb(237, 237, 237);
-    border-radius: 15px;
-    color: rgba(113, 99, 186, 255);
+    border-radius: 10px;
+    color: rgba(47, 0, 146, 0.94);
     display: flex;
     align-items: center;
     gap: 5px;
@@ -129,7 +129,7 @@ body{
     gap: 1rem;
 }
 .main--title {
-    color: rgba(113, 99, 186, 255);
+    color: rgba(47, 0, 146, 0.94);
     padding-bottom: 10px;
     font-size: 15px;
 }
@@ -224,7 +224,7 @@ table {
     border-collapse: collapse;
 }
 thead {
-    background: rgba(113, 99, 186, 255);
+    background: rgba(47, 0, 146, 0.94);
     color: #fff;
 }
 th {
@@ -243,7 +243,7 @@ tr:nth-child(even) {
     background: #fff;
 }
 tfoot{
-    background: rgba(113, 99, 186, 255);
+    background: rgba(47, 0, 146, 0.94);
     font-weight: bold;
     color: #fff;
 }
